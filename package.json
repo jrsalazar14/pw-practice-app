@@ -59,7 +59,11 @@
     "@angular/language-service": "14.2.12",
     "@compodoc/compodoc": "^1.1.19",
     "@fortawesome/fontawesome-free": "^5.2.0",
+<<<<<<< HEAD
     "@playwright/test": "^1.45.0",
+=======
+    "@playwright/test": "^1.45.1",
+>>>>>>> a9613f3ec3ff00b1f383e3884940a572dd5896ae
     "@types/leaflet": "1.2.3",
     "@types/node": "^12.12.70",
     "codelyzer": "^0.0.28",
